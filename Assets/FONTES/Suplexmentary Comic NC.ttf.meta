@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: c06ebf8a9129a4035bc65c50141edcf6
+timeCreated: 1509632318
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Suplexmentary Comic NC
+  fontNames:
+  - Suplexmentary Comic NC
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
